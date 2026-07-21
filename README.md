@@ -76,3 +76,4 @@ Returns:
   "store_url": "https://store.steampowered.com/app/1234567/#app_reviews_hash"
 }
 ```
+# steamOS_plugin_achievements
